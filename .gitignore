@@ -1,0 +1,11 @@
+# Ignore Excel and PDF files
+*.xlsx
+*.xls
+*.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/system files
+.DS_Store
+Thumbs.db
